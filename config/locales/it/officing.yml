@@ -1,5 +1,10 @@
 it:
   officing:
+    header:
+      title: Votazione
+    dashboard:
+      index:
+        title: Scrutinio
     menu:
       voters: Convalidare il documento
     results:
