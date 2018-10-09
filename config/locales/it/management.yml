@@ -43,24 +43,24 @@ it:
       not_in_census_info: 'I cittadini non registrati all’Anagrafe possono partecipare al sito con le seguenti autorizzazioni:'
       please_check_account_data: Si prega di controllare che i dati dell'utenza sopra riportati siano corretti.
       title: Gestione degli utenti
-      under_age: "Non hai l'età richiesta per verificare l'account."
+      under_age: "Non hai l'età richiesta per verificare il tuo account."
       verify: Verifica
     email_label: E-mail
     date_of_birth: Data di nascita
     email_verifications:
       already_verified: Questo account utente è già verificato.
-      choose_options: 'Si prega di scegliere una delle opzioni seguenti:'
+      choose_options: 'Si prega di scegliere una delle seguenti opzioni:'
       document_found_in_census: Questo documento è stato trovato in anagrafe, ma non ha alcun account utente ad esso associato.
-      document_mismatch: 'Questa e-mail appartiene a un utente che dispone già di un identificativo associato: %{document_number}(%{document_type})'
-      email_placeholder: Inserisci l'email utilizzata per creare l'utente
-      email_sent_instructions: Per verificare completamente questo utente, è necessario che cliccare su un link che ti abbiamo inviato all'indirizzo di posta elettronica sopra riportato. Questo passaggio è necessario al fine di confermare che l'indirizzo e-mail sia proprio il tuo.
+      document_mismatch: 'Questa e-mail appartiene a un utente che dispone già di un documento associato: %{document_number}(%{document_type})'
+      email_placeholder: Inserisci l'email che questa persona ha usato per creare il proprio account
+      email_sent_instructions: Per verificare completamente questo utente, è necessario che clicchi su un link che abbiamo inviato all'indirizzo di posta elettronica sopra riportato. Questo passaggio è necessario al fine di confermare che l'indirizzo e-mail sia suo.
       if_existing_account: Se la persona ha già un account utente creato nel sito,
       if_no_existing_account: Se questa persona non ha ancora creato un account
-      introduce_email: 'Si prega di introdurre l''e-mail utilizzata sul conto:'
-      send_email: Inviare email di verifica
+      introduce_email: 'Si prega di inserire l’email utilizzata per l’account:'
+      send_email: Invia email di verifica
     menu:
       create_proposal: Crea proposta
-      print_proposals: Stampare le proposte
+      print_proposals: Stampa proposte
       support_proposals: Sostieni proposte
       create_spending_proposal: Crea proposta di spesa
       print_spending_proposals: Stampa proposte di spesa
