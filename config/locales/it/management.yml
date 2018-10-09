@@ -13,25 +13,42 @@ it:
         back: Indietro
         password:
           password: Password
+          send_email: Invia e-mail di reimpostazione password
+          reset_email_send: E-mail inviata correttamente.
+          reseted: Password reimpostata con successo
+          random: Genera password casuale
+          save: Salva password
+          print: Stampa password
+          print_help: Sarai in grado di stampare la password quando sarà salvata.
     account_info:
       change_user: Cambia utente
       document_number_label: 'Numero del documento:'
       document_type_label: 'Tipo Documento di identità:'
+      email_label: 'E-mail:'
       identified_label: 'Identificato come:'
       username_label: 'Nome utente:'
+    check: Controlla documento
     dashboard:
       index:
+        title: Gestione
         info: Qui è possibile gestire gli utenti attraverso tutte le azioni elencate nel menu a sinistra.
+    document_number: Numero del documento
+    document_type_label: Tipo di documento
     document_verifications:
       already_verified: Questo account utente è già verificato.
       has_no_account_html: Per creare un account, vai a %{link} e fai click su <b>'Registrati'</b> nella parte superiore sinistra dello schermo.
+      link: CONSUL
       in_census_has_following_permissions: 'Questo utente può partecipare con le seguenti autorizzazioni:'
       not_in_census: Questo documento non è registrato.
       not_in_census_info: 'I cittadini non residenti possono partecipare con le seguenti autorizzazioni:'
       please_check_account_data: Si prega di controllare che i dati dell'utenza sopra riportati siano corretti.
       title: Gestione degli utenti
       under_age: "Non hai l'età richiesta per verificare l'account."
+      verify: Verifica
+    email_label: E-mail
+    date_of_birth: Data di nascita
     email_verifications:
+      already_verified: Questo account utente è già verificato.
       choose_options: 'Si prega di scegliere una delle opzioni seguenti:'
       document_found_in_census: Questo documento è stato trovato in anagrafe, ma non ha alcun account utente ad esso associato.
       document_mismatch: 'Questa e-mail appartiene a un utente che dispone già di un identificativo associato: %{document_number}(%{document_type})'
@@ -42,7 +59,9 @@ it:
       introduce_email: 'Si prega di introdurre l''e-mail utilizzata sul conto:'
       send_email: Inviare email di verifica
     menu:
+      create_proposal: Crea proposta
       print_proposals: Stampare le proposte
+      support_proposals: Sostieni proposte
       print_spending_proposals: Stampare le proposte di spesa
       support_spending_proposals: Appoggiare le proposte di spesa
     permissions:
