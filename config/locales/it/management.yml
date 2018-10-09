@@ -1,10 +1,18 @@
 it:
   management:
     account:
+      menu:
+        reset_password_email: Reimposta la password via e-mail
+        reset_password_manually: Reimposta la password manualmente
       alert:
         unverified_user: Si possono modificare solo utenti già verificati
       show:
         title: Account utente
+      edit:
+        title: 'Modifica account utente: Reimposta password'
+        back: Indietro
+        password:
+          password: Password
     account_info:
       change_user: Cambia utente
       document_number_label: 'Numero del documento:'
