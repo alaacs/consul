@@ -5,17 +5,39 @@ it:
     dashboard:
       index:
         title: Scrutinio
+        info: Qui è possibile convalidare i documenti degli utenti e archiviare i risultati delle votazioni
+        no_shifts: Non hai turni da scrutatore oggi.
     menu:
       voters: Convalidare il documento
+      total_recounts: Scrutinio finale e risultati
+    polls:
+      final:
+        title: Votazioni pronte per lo scrutinio finale
+        no_polls: Non sei incaricato degli scrutini finali in nessuna votazione attiva
+        select_poll: Seleziona votazione
+        add_results: Aggiungi risultati
     results:
       flash:
         create: "Risultati salvati"
         error_create: "Risultati non salvati. Errore nei dati."
         error_wrong_booth: "Seggio sbagliato. Risultati non salvati."
       new:
+        title: "%{poll} - Aggiungi risultati"
+        not_allowed: "Sei autorizzato ad aggiungere risultati per questa votazione"
+        booth: "Seggio"
+        date: "Data"
         select_booth: "Selezionare il seggio"
+        ballots_white: "Schede totalmente bianche"
+        ballots_null: "Voti non validi"
+        ballots_total: "Voti totali"
+        submit: "Salva"
+        results_list: "I tuoi risultati"
+        see_results: "Vedi risultati"
       index:
         no_results: "Nessun risultato"
+        results: Risultati
+        table_answer: Risposta
+        table_votes: Voti
     residence:
       flash:
         create: "Documento verificato con l'Anagrafe"
