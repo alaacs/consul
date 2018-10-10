@@ -249,7 +249,6 @@ nl:
       text_sign_in: inloggen
       text_sign_up: registreren
       title: Hoe kan ik reageren op dit document?
-  locale: Nederlands
   notifications:
     index:
       empty_notifications: Je hebt geen nieuwe notificaties
