@@ -61,7 +61,7 @@ it:
         not_to_vote: La persona ha deciso di non votare al momento
       show:
         can_vote: Può votare
-        error_already_voted: Hai già partecipato a questa votazione
+        error_already_voted: Ha già partecipato a questa votazione
         submit: Conferma voto
         success: "Voto inserito!"
       can_vote:
