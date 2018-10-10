@@ -249,7 +249,6 @@ it:
       text_sign_in: account di accesso
       text_sign_up: accedere
       title: Come posso commentare questo documento?
-  locale: Inglese
   notifications:
     index:
       empty_notifications: Non hai nuove notifiche.
