@@ -249,7 +249,6 @@ fr:
       text_sign_in: se connecter
       text_sign_up: s'inscrire
       title: Comment puis-je commenter ce document ?
-  locale: Français
   notifications:
     index:
       empty_notifications: Vous n'avez pas de nouvelles notifications
